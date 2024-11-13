@@ -1,11 +1,21 @@
 ## Olá! Sou o Ryan Reis 🖐️
 
+- 👀 Gosto de Jogos Digitais, Programação, Música e Futebol .
+
+- 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em projetos .
+- 💻 Estudante da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ).
+
+## 📫 Principais Contatos:
+<br/>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryanreiszs/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanreisunivap@gmail.com)
 [![Gitgub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iryanreiszs)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ryanreis.vercel.app/)
 
+##
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=dracula)
+<br/>
 
 ## Tecnologias utilizadas no dia a dia:
 
@@ -18,4 +28,6 @@
     <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
     <img align="center" alt="Jira" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img align="center" alt="Jira" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</div>
+</div><br/>
+<br/>
+
