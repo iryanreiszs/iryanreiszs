@@ -23,6 +23,7 @@
 <br/>
 
 <br/>
+##
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=radical)
 
 ## Tecnologias utilizadas no dia a dia:
