@@ -23,7 +23,7 @@
 <br/>
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iryanreiszs=anuraghazra&hide_progress=true)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=radical)
 
 ## Tecnologias utilizadas no dia a dia:
 
