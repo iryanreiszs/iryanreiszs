@@ -19,7 +19,7 @@
 
 
 ##
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iryanreiszs=anuraghazra&hide_progress=true)
 <br/>
 
 <br/>
