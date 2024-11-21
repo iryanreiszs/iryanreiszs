@@ -23,7 +23,7 @@
 <br/>
 
 <br/>
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iryanreizs-i&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iryanreiszs-i&layout=compact&theme=radical)
 
 ## Tecnologias utilizadas no dia a dia:
 
