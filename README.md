@@ -22,10 +22,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iryanreiszs&langs_count=8)
 <br/>
 
-<br/>
-##
+
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=dark)
 <br/>
+
 
 
 ## Tecnologias utilizadas no dia a dia:
