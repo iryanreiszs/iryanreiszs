@@ -22,6 +22,9 @@
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=dracula)
 <br/>
 
+<br/>
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iryanreizs-i&layout=compact&theme=radical)
+
 ## Tecnologias utilizadas no dia a dia:
 
 <div style="display: inline-block"><br/>
