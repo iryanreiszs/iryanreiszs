@@ -24,7 +24,8 @@
 
 <br/>
 ##
-![Ryan's GitHub stats](![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=dark)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryanreiszs&show_icons=true&theme=dark)
+<br/>
 
 
 ## Tecnologias utilizadas no dia a dia:
