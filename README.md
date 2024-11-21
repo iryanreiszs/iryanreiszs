@@ -19,7 +19,7 @@
 
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iryanreiszs=anuraghazra&hide_progress=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=iryanreiszs&hide_progress=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iryanreiszs&hide_progress=true
 )
 <br/>
 
