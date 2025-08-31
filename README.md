@@ -3,7 +3,7 @@
 - 👀 Gosto de Jogos Digitais, Programação, Música e Futebol .
 
 - 👨‍🎓 Procuro expandir meus conhecimentos em TI para trabalhar em projetos .
-- 💻 Estudante da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ).
+- 💻 Estudante da FATEC - SJC ( Bando de Dados ).
 
 ## 📫 Principais Contatos:
 <br/>
