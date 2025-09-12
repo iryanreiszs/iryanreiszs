@@ -1,9 +1,10 @@
 ## Olá! Sou o Ryan Reis 🖐️
 
-- 👀 Gosto de Jogos Digitais, Programação, Música e Futebol .
+- 👀 Gosto de Programação, Música e Futebol .
 
 - 👨‍🎓 Procuro expandir meus conhecimentos em TI para trabalhar em projetos .
 - 💻 Estudante da FATEC - SJC ( Bando de Dados ).
+- 🪽 Militar da Força Aérea Brasileira.
 
 ## 📫 Principais Contatos:
 <br/>
